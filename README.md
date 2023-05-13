@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EArimas
+- 👋 Hi, I’m @smrebd
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 
